@@ -1,0 +1,13 @@
+,,,,,,Dollars,Dollars,Dollars,Units,Units,Units
+Store,,,,,,Store 1,Store 2,Store 3,Store 1,Store 2,Store 3
+Date,Department,Category,Subcategory,UPC EAN,Description,,,,,,
+2018-07-10,Booooze,Beer,Ales,737000000000.0,Goose Island - Honkers Ale - 6 Pack,90,92,,9,9,
+2018-07-10,Booooze,Wine,Red,737000000000.0,Goose Island - Honkers Ale - 6 Pack,,,90,,,9
+2018-07-11,Booooze,Beer,Lagers,737000000000.0,Brand2 - RandomName1 - 6 Pack,47,,,6,,
+2018-07-11,Booooze,Beer,Stouts,737000000000.0,Brand2 - RandomName2 - 6 Pack,,47,,,6,
+2018-07-12,Booooze,Alcohol,Liqour,9740000000000.0,Goose Island - Honkers Ale - 6 Pack,90,,,9,,
+2018-07-12,Booooze,Alcohol,Liquor,9740000000000.0,Goose Island - Honkers Ale - 6 Pack,,90,90,,9,9
+2018-07-12,Booooze,Beer,Ales,737000000000.0,Goose Island - Honkers Ale - 6 Pack,104,,,9,,
+2018-07-12,Booooze,Beer,Malts,737000000000.0,Goose Island - Honkers Ale - 6 Pack,,,90,,,9
+2018-07-13,Booooze,Wine,Rose,737000000000.0,Goose Island - Honkers Ale - 6 Pack,,,90,,,9
+2018-07-13,Booooze,Wine,White,737000000000.0,Goose Island - Honkers Ale - 6 Pack,,90,,,9,
