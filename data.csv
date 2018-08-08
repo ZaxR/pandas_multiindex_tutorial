@@ -1,13 +1,133 @@
 Date,Store,Category,Subcategory,UPC EAN,Description,Dollars,Units
-7/10/18,Store 2,Beer,Ales,7.37E+11,Goose Island - Honkers Ale - 6 Pack,92,9
-7/10/18,Store 1,Beer,Ales,7.37E+11,Goose Island - Honkers Ale - 6 Pack,90,9
-7/11/18,Store 1,Beer,Lagers,7.37E+11,Brand2 - RandomName1 - 6 Pack,47,6
-7/11/18,Store 2,Beer,Stouts,7.37E+11,Brand2 - RandomName2 - 6 Pack,47,6
-7/12/18,Store 1,Beer,Ales,7.37E+11,Goose Island - Honkers Ale - 6 Pack,104,9
-7/12/18,Store 3,Beer,Malts,7.37E+11,Goose Island - Honkers Ale - 6 Pack,90,9
-7/10/18,Store 3,Wine,Red,7.37E+11,Goose Island - Honkers Ale - 6 Pack,90,9
-7/13/18,Store 2,Wine,White,7.37E+11,Goose Island - Honkers Ale - 6 Pack,90,9
-7/13/18,Store 3,Wine,Rose,7.37E+11,Goose Island - Honkers Ale - 6 Pack,90,9
-7/12/18,Store 1,Alcohol,Liqour,9.74E+12,Goose Island - Honkers Ale - 6 Pack,90,9
-7/12/18,Store 2,Alcohol,Liquor,9.74E+12,Goose Island - Honkers Ale - 6 Pack,90,9
-7/12/18,Store 3,Alcohol,Liquor,9.74E+12,Goose Island - Honkers Ale - 6 Pack,90,9
+7/11/18,Store 3,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,35.68,4
+7/11/18,Store 2,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,166.74,14
+7/10/18,Store 3,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,67.36,8
+7/10/18,Store 2,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,80.01,9
+7/12/18,Store 3,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,78.3,10
+7/12/18,Store 2,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,37.75,5
+7/14/18,Store 3,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,113.49000000000001,13
+7/14/18,Store 2,Beer,Ales,0736920111112,Goose Island - Honkers Ale - 6 Pack,45.05,5
+7/10/18,Store 2,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,81.76,8
+7/10/18,Store 3,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,62.48,8
+7/11/18,Store 2,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,104.91,13
+7/11/18,Store 3,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,72.72,9
+7/16/18,Store 2,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,99.39999999999999,10
+7/16/18,Store 3,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,46.65,5
+7/14/18,Store 2,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,124.52000000000001,11
+7/14/18,Store 3,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,113.67999999999999,14
+7/15/18,Store 2,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,88.77000000000001,11
+7/15/18,Store 3,Beer,Ales,0094922755711,Bowser Beer - Beefy Brown Ale - 6 Pack,119.47,13
+7/12/18,Store 3,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,93.10000000000001,10
+7/12/18,Store 1,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,40.12,4
+7/14/18,Store 3,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,128.64000000000001,12
+7/14/18,Store 1,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,85.04,8
+7/10/18,Store 3,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,176.96,14
+7/10/18,Store 1,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,137.67,13
+7/16/18,Store 3,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,104.86,7
+7/16/18,Store 1,Beer,Lagers,0702770081011,Omission - Gluten Free Lager - 6 Pack,174.72,14
+7/12/18,Store 3,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,109.33999999999999,14
+7/12/18,Store 2,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,116.71,11
+7/14/18,Store 3,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,31.52,4
+7/14/18,Store 2,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,96.8,10
+7/13/18,Store 3,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,75.74000000000001,7
+7/13/18,Store 2,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,82.67,7
+7/10/18,Store 3,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,119.9,10
+7/10/18,Store 2,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,78.39999999999999,7
+7/11/18,Store 3,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,143.51999999999998,13
+7/11/18,Store 2,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,56.14,7
+7/15/18,Store 3,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,111.47999999999999,12
+7/15/18,Store 2,Beer,Stouts,0083783575217,Sierra Nevada Brewing Co. - Stout - 6 Pack,134.52,12
+7/10/18,Store 2,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,89.76,6
+7/10/18,Store 3,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,135.72,13
+7/11/18,Store 2,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,156.24,12
+7/11/18,Store 3,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,184.99,13
+7/16/18,Store 2,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,135.94,14
+7/16/18,Store 3,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,143.6,10
+7/15/18,Store 2,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,160.2,12
+7/15/18,Store 3,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,66.7,5
+7/12/18,Store 2,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,109.2,8
+7/12/18,Store 3,Beer,Ales,0702770082018,Omission Pale Ale - Gluten Free Pale Ale - 6 Pack,56.760000000000005,6
+7/16/18,Store 2,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,47.55,5
+7/16/18,Store 3,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,108.47999999999999,12
+7/11/18,Store 2,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,101.79,9
+7/11/18,Store 3,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,107.58,11
+7/15/18,Store 2,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,139.23000000000002,13
+7/15/18,Store 3,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,40.5,5
+7/13/18,Store 2,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,103.59,9
+7/13/18,Store 3,Beer,Malts,0071250000140,Colt 45 - Malt Liquor - 6 Pack,142.44,12
+7/12/18,Store 1,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,60.24,8
+7/12/18,Store 3,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,69.29,13
+7/16/18,Store 1,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,126.14,14
+7/16/18,Store 3,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,66.16,8
+7/15/18,Store 1,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,115.68,12
+7/15/18,Store 3,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,132.6,13
+7/10/18,Store 1,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,56.88,8
+7/10/18,Store 3,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,37.8,6
+7/11/18,Store 1,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,50.400000000000006,6
+7/11/18,Store 3,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,47.25,7
+7/14/18,Store 1,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,41.23,7
+7/14/18,Store 3,Wine,Red,0089744402585,Trapiche - Malbec - 750 mL Bottle,20.150000000000002,5
+7/14/18,Store 1,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,32.099999999999994,6
+7/14/18,Store 3,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,38.0,5
+7/13/18,Store 1,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,38.6,5
+7/13/18,Store 3,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,17.64,4
+7/10/18,Store 1,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,46.3,10
+7/10/18,Store 3,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,34.56,6
+7/16/18,Store 1,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,68.46,14
+7/16/18,Store 3,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,46.56,6
+7/15/18,Store 1,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,54.27,9
+7/15/18,Store 3,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,58.199999999999996,12
+7/12/18,Store 1,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,95.16,12
+7/12/18,Store 3,Wine,Red,0492130008399,Yellow Tail - Merlot - 750 mL Bottle,75.6,10
+7/13/18,Store 3,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,287.28,14
+7/13/18,Store 2,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,121.32,6
+7/12/18,Store 3,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,85.6,4
+7/12/18,Store 2,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,196.74,9
+7/10/18,Store 3,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,278.59999999999997,14
+7/10/18,Store 2,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,293.16,14
+7/11/18,Store 3,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,247.51999999999998,13
+7/11/18,Store 2,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,237.16,11
+7/14/18,Store 3,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,80.96,4
+7/14/18,Store 2,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,281.96000000000004,14
+7/16/18,Store 3,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,266.84,14
+7/16/18,Store 2,Wine,White,0081248501095,Curious Beasts - Chardonnay - 750 mL Bottle,82.8,4
+7/10/18,Store 1,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,148.60999999999999,11
+7/10/18,Store 2,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,100.38,7
+7/13/18,Store 1,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,131.6,10
+7/13/18,Store 2,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,156.53,11
+7/12/18,Store 1,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,93.94,7
+7/12/18,Store 2,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,83.82000000000001,6
+7/11/18,Store 1,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,52.24,4
+7/11/18,Store 2,Wine,Rose,0085000024218,Dark Horse - S. Blanc Rose - 750 mL Bottle,173.03,13
+7/10/18,Store 2,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,231.29999999999998,9
+7/10/18,Store 3,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,128.3,5
+7/15/18,Store 2,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,121.19999999999999,5
+7/15/18,Store 3,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,278.04,12
+7/12/18,Store 2,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,279.36,12
+7/12/18,Store 3,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,228.08,8
+7/11/18,Store 2,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,248.79999999999998,10
+7/11/18,Store 3,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,296.01,11
+7/16/18,Store 2,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,221.04,9
+7/16/18,Store 3,Alcohol,Liqour,0080480280024,Grey Goose - Imported Vodka - 750 mL Bottle,126.66,6
+7/12/18,Store 3,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,268.56,9
+7/12/18,Store 2,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,410.88,12
+7/16/18,Store 3,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,345.07,11
+7/16/18,Store 2,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,161.14999999999998,5
+7/10/18,Store 3,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,204.12,7
+7/10/18,Store 2,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,168.06,6
+7/11/18,Store 3,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,102.04,4
+7/11/18,Store 2,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,338.1,10
+7/15/18,Store 3,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,430.5,14
+7/15/18,Store 2,Alcohol,Liquor,0674545000001,Don Julio - Tequila Blanco - 750 mL Bottle,177.0,6
+7/12/18,Store 2,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,250.25,7
+7/12/18,Store 3,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,455.13,13
+7/13/18,Store 2,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,432.74,11
+7/13/18,Store 3,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,185.75,5
+7/11/18,Store 2,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,201.71999999999997,6
+7/11/18,Store 3,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,318.8,8
+7/14/18,Store 2,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,227.82,6
+7/14/18,Store 3,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,268.52,7
+7/15/18,Store 2,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,415.68,12
+7/15/18,Store 3,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,476.64,12
+7/10/18,Store 2,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,172.0,5
+7/10/18,Store 3,Alcohol,Liquor,0080432400630,Glenlivet - 12 Year Scotch Whisky - 750 mL Bottle,278.8,8
